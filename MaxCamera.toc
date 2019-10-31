@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: MaxCamera
+## Author: 10leej
+## Notes: Maxes camera zoom
+
+MaxCamera.lua
